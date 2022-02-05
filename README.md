@@ -1,3 +1,1 @@
-# v2ray-huy
-V2ray huy
-Hbj
+[{"ConfigVersion":"1.8","vmess":"cronoksjsongen"},{"Name":"STS 01","Flag":"SG","vmess":"vmess://eyJhZGQiOiIxMDMuMTUxLjI0MS42OCIsImFpZCI6IjAiLCJob3N0IjoibGl2ZXN0cmVhbTIudHYzNjAudm4iLCJpZCI6IjY1MjRmNTE1LTIxY2EtNGM1NC1hNmJiLWZhM2MyZjcyZDA2ZiIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoi8J+Hu/Cfh7NIYcyDeSBtdWEgYmHMiW4gcHJvIMSRw6rMiSBjb8yBIHRyYcyJaSBuZ2hpw6rMo20gdMO0zIF0IGjGoW4iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="},
